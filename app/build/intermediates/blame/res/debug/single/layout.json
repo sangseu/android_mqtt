@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/mig-0/Applications/android/android_studio_project/paho_mqtt/working/app/build/intermediates/res/merged/debug/layout/connection_text_view.xml",
+        "source": "/home/mig-0/Applications/android/android_studio_project/paho_mqtt/working/app/src/main/res/layout/connection_text_view.xml"
+    },
+    {
+        "merged": "/home/mig-0/Applications/android/android_studio_project/paho_mqtt/working/app/build/intermediates/res/merged/debug/layout/activity_publish.xml",
+        "source": "/home/mig-0/Applications/android/android_studio_project/paho_mqtt/working/app/src/main/res/layout/activity_publish.xml"
+    },
+    {
+        "merged": "/home/mig-0/Applications/android/android_studio_project/paho_mqtt/working/app/build/intermediates/res/merged/debug/layout/client_connections.xml",
+        "source": "/home/mig-0/Applications/android/android_studio_project/paho_mqtt/working/app/src/main/res/layout/client_connections.xml"
+    },
+    {
+        "merged": "/home/mig-0/Applications/android/android_studio_project/paho_mqtt/working/app/build/intermediates/res/merged/debug/layout/activity_new_connection.xml",
+        "source": "/home/mig-0/Applications/android/android_studio_project/paho_mqtt/working/app/src/main/res/layout/activity_new_connection.xml"
+    },
+    {
+        "merged": "/home/mig-0/Applications/android/android_studio_project/paho_mqtt/working/app/build/intermediates/res/merged/debug/layout/activity_advanced.xml",
+        "source": "/home/mig-0/Applications/android/android_studio_project/paho_mqtt/working/app/src/main/res/layout/activity_advanced.xml"
+    },
+    {
+        "merged": "/home/mig-0/Applications/android/android_studio_project/paho_mqtt/working/app/build/intermediates/res/merged/debug/layout/filedialogitem.xml",
+        "source": "/home/mig-0/Applications/android/android_studio_project/paho_mqtt/working/app/src/main/res/layout/filedialogitem.xml"
+    },
+    {
+        "merged": "/home/mig-0/Applications/android/android_studio_project/paho_mqtt/working/app/build/intermediates/res/merged/debug/layout/activity_connection_details.xml",
+        "source": "/home/mig-0/Applications/android/android_studio_project/paho_mqtt/working/app/src/main/res/layout/activity_connection_details.xml"
+    },
+    {
+        "merged": "/home/mig-0/Applications/android/android_studio_project/paho_mqtt/working/app/build/intermediates/res/merged/debug/layout/list_view_text_view.xml",
+        "source": "/home/mig-0/Applications/android/android_studio_project/paho_mqtt/working/app/src/main/res/layout/list_view_text_view.xml"
+    },
+    {
+        "merged": "/home/mig-0/Applications/android/android_studio_project/paho_mqtt/working/app/build/intermediates/res/merged/debug/layout/activity_subscribe.xml",
+        "source": "/home/mig-0/Applications/android/android_studio_project/paho_mqtt/working/app/src/main/res/layout/activity_subscribe.xml"
+    }
+]

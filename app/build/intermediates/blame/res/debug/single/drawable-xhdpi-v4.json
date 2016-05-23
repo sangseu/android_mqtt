@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/mig-0/Applications/android/android_studio_project/paho_mqtt/working/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/home/mig-0/Applications/android/android_studio_project/paho_mqtt/working/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mig-0/Applications/android/android_studio_project/paho_mqtt/working/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/arrow.png",
+        "source": "/home/mig-0/Applications/android/android_studio_project/paho_mqtt/working/app/src/main/res/drawable-xhdpi/arrow.png"
+    },
+    {
+        "merged": "/home/mig-0/Applications/android/android_studio_project/paho_mqtt/working/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/oic_launcher.png",
+        "source": "/home/mig-0/Applications/android/android_studio_project/paho_mqtt/working/app/src/main/res/drawable-xhdpi/oic_launcher.png"
+    }
+]

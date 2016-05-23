@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/mig-0/Applications/android/android_studio_project/paho_mqtt/working/app/src/main/assets"><file name="file" path="/home/mig-0/Applications/android/android_studio_project/paho_mqtt/working/app/src/main/assets/file"/></source></dataSet><dataSet config="debug"><source path="/home/mig-0/Applications/android/android_studio_project/paho_mqtt/working/app/src/debug/assets"/></dataSet></merger>
